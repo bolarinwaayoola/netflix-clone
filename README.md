@@ -1,34 +1,66 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🎬 Netflix Clone
 
-## Getting Started
+A full-stack Netflix clone built with Next. js 13, TypeScript, Prisma, and NextAuth.  This project replicates the core features and user interface of Netflix with modern web technologies.
 
-First, run the development server:
+## 📺 Video Demo
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+[![Netflix Clone Demo](https://img.youtube.com/vi/Onqgb-Dan_A/maxresdefault.jpg)](https://youtu.be/Onqgb-Dan_A)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+**Watch the full demo:** [https://youtu.be/Onqgb-Dan_A](https://youtu.be/Onqgb-Dan_A)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📸 Screenshots
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<details>
+<summary>Click to view screenshots</summary>
+<img width="1919" height="919" alt="netflix clone 5" src="https://github.com/user-attachments/assets/e1030067-69e3-4b98-8d5e-bcb8c5277a12" />
+<img width="1918" height="919" alt="netflix clone 4" src="https://github.com/user-attachments/assets/e3c20577-c228-4d0d-876e-a1dd268452d4" />
+<img width="1903" height="925" alt="netflix clone 3" src="https://github.com/user-attachments/assets/9c586457-adc1-4e40-a3c0-127a5d411a05" />
+<img width="1903" height="924" alt="netflix clone 2" src="https://github.com/user-attachments/assets/e9eeab49-372c-4c54-97e0-1164baceeacf" />
+<img width="1907" height="926" alt="netflix clone 1" src="https://github.com/user-attachments/assets/3e961fef-610d-4365-95ea-422c74873df0" />
+</details>
 
-## Learn More
+## ✨ Features
 
-To learn more about Next.js, take a look at the following resources:
+- 🔐 **User Authentication** - Secure login and registration with NextAuth
+- 🎥 **Movie Browsing** - Browse through a collection of movies and shows
+- 🎨 **Netflix UI Clone** - Pixel-perfect recreation of Netflix's interface
+- 📱 **Responsive Design** - Fully responsive across all devices
+- ⚡ **Fast Performance** - Built with Next.js 13 for optimal speed
+- 🗄️ **Database Integration** - Prisma ORM with PostgreSQL
+- 🎯 **State Management** - Zustand for efficient state management
+- 🎬 **Video Player** - Custom video player implementation
+- 💾 **Favorites/My List** - Add movies to your personal list
+- 🔍 **Search Functionality** - Search through the movie catalog
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🛠️ Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+### Frontend
+- **Framework:** Next.js 13.4.12
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **UI Components:** Radix UI
+- **Icons:** React Icons, Lucide React
+- **Forms:** React Hook Form + Zod validation
+- **State Management:** Zustand
+- **Data Fetching:** SWR, Axios
 
-## Deploy on Vercel
+### Backend
+- **Authentication:** NextAuth.js
+- **Database:** PostgreSQL with Prisma ORM
+- **API Routes:** Next.js API Routes
+- **Password Hashing:** Bcrypt
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 📝 License
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+This project is open source and available under the [MIT License](LICENSE).
+
+## 👤 Author
+
+**Bolarinwa Ayoola**
+
+- GitHub: [@bolarinwaayoola](https://github.com/bolarinwaayoola)
+
+**Note:** This project is for educational purposes only and is not affiliated with Netflix. 
+
+## 🚀 Getting Started
+
